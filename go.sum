@@ -1,0 +1,6 @@
+github.com/MaxHalford/eaopt v0.1.0 h1:eeAxFfy4zEcv7AZzQCHeYGRutifxN0EA/XZzv70Uaus=
+github.com/MaxHalford/eaopt v0.1.0/go.mod h1:/BtsvPTut6WckNrjS1D7MQRv9IOXnPN0lnrWIqyCFQI=
+github.com/MaxHalford/eaopt v0.1.1-0.20190324212811-88d65e68635e h1:GWwIupuGvaH0sqsF69dz11WrOzgngrM3SPsBgXqtfA4=
+github.com/MaxHalford/eaopt v0.1.1-0.20190324212811-88d65e68635e/go.mod h1:/BtsvPTut6WckNrjS1D7MQRv9IOXnPN0lnrWIqyCFQI=
+golang.org/x/sync v0.0.0-20190423024810-112230192c58 h1:8gQV6CLnAEikrhgkHFbMAEhagSSnXWGV915qUMm9mrU=
+golang.org/x/sync v0.0.0-20190423024810-112230192c58/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
